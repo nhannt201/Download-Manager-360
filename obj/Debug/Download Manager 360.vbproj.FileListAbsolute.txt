@@ -1,0 +1,30 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360\bin\Debug\Download Manager 360.exe.config
+E:\Download Manager 360\bin\Debug\Download Manager 360.exe.config
+E:\Download Manager 360\bin\Debug\Download Manager 360.exe
+E:\Download Manager 360\bin\Debug\Download Manager 360.pdb
+E:\Download Manager 360\bin\Debug\Download Manager 360.xml
+E:\Download Manager 360\obj\Debug\Download_Manager_360.Form1.resources
+E:\Download Manager 360\obj\Debug\Download_Manager_360.Resources.resources
+E:\Download Manager 360\obj\Debug\Download Manager 360.vbproj.GenerateResource.Cache
+E:\Download Manager 360\obj\Debug\Download Manager 360.exe
+E:\Download Manager 360\obj\Debug\Download Manager 360.xml
+E:\Download Manager 360\obj\Debug\Download Manager 360.pdb
+E:\Download Manager 360\obj\Debug\Download_Manager_360.setting.resources
+E:\Download Manager 360\obj\Debug\Download_Manager_360.download.resources
+E:\Download Manager 360\obj\Debug\Download_Manager_360.taive.resources
+E:\Download Manager 360\obj\Debug\Download Manager 360.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\bin\Debug\Download Manager 360.exe.config
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\bin\Debug\Download Manager 360.exe
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\bin\Debug\Download Manager 360.pdb
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\bin\Debug\Download Manager 360.xml
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download Manager 360.vbprojAssemblyReference.cache
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download_Manager_360.download.resources
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download_Manager_360.Form1.resources
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download_Manager_360.Resources.resources
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download_Manager_360.setting.resources
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download_Manager_360.taive.resources
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download Manager 360.vbproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download Manager 360.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download Manager 360.exe
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download Manager 360.xml
+C:\Users\lenovo\OneDrive\LapTrinh_DRIVE\Download Manager 360\obj\Debug\Download Manager 360.pdb

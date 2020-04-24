@@ -1,0 +1,3 @@
+﻿Module AssemblyInfo
+
+End Module
