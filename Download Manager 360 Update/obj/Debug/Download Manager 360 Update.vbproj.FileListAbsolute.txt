@@ -1,0 +1,20 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\obj\Debug\Download_Manager_360_Update.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\obj\Debug\Download_Manager_360_Update.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.pdb
+E:\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.exe.config
+E:\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.exe
+E:\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.pdb
+E:\Download Manager 360 Update\bin\Debug\Download Manager 360 Update.xml
+E:\Download Manager 360 Update\obj\Debug\Download_Manager_360_Update.Form1.resources
+E:\Download Manager 360 Update\obj\Debug\Download_Manager_360_Update.Resources.resources
+E:\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.vbproj.GenerateResource.Cache
+E:\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.exe
+E:\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.xml
+E:\Download Manager 360 Update\obj\Debug\Download Manager 360 Update.pdb
