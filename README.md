@@ -3,4 +3,3 @@
  
  Mã nguồn trình quản lý tải về
 # Author: Nguyen Trung Nhan
-- Contact: trungnhan21.12@gmail.com
